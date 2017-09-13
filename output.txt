@@ -1,0 +1,51 @@
+The Brooklyn Nets have been eliminated from the playoffs on 3/6/2017
+The Los Angeles Lakers have been eliminated from the playoffs on 3/16/2017
+The Phoenix Suns have been eliminated from the playoffs on 3/19/2017
+The Philadelphia 76ers have been eliminated from the playoffs on 3/26/2017
+The Orlando Magic have been eliminated from the playoffs on 3/27/2017
+The New York Knicks have been eliminated from the playoffs on 3/28/2017
+The Sacramento Kings have been eliminated from the playoffs on 3/28/2017
+The Dallas Mavericks have been eliminated from the playoffs on 3/31/2017
+The Minnesota Timberwolves have been eliminated from the playoffs on 4/1/2017
+The New Orleans Pelicans have been eliminated from the playoffs on 4/2/2017
+The Detroit Pistons have been eliminated from the playoffs on 4/5/2017
+The Charlotte Hornets have been eliminated from the playoffs on 4/5/2017
+The Denver Nuggets have been eliminated from the playoffs on 4/8/2017
+The Miami Heat have been eliminated from the playoffs on 4/10/2017
+_____________________________________________________
+
+East Final Standings:
+1: Boston Celtics - 0.642
+2: Cleveland Cavaliers - 0.630
+3: Toronto Raptors - 0.617
+4: Washington Wizards - 0.605
+5: Atlanta Hawks - 0.531
+6: Milwaukee Bucks - 0.519
+7: Indiana Pacers - 0.506
+8: Chicago Bulls - 0.494
+9: Miami Heat - 0.494
+10: Detroit Pistons - 0.457
+11: Charlotte Hornets - 0.439
+12: New York Knicks - 0.370
+13: Philadelphia 76ers - 0.346
+14: Orlando Magic - 0.346
+15: Brooklyn Nets - 0.247
+_____________________________________________________
+
+West Final Standings:
+1: Golden State Warriors - 0.815
+2: San Antonio Spurs - 0.753
+3: Houston Rockets - 0.667
+4: Utah Jazz - 0.617
+5: LA Clippers - 0.617
+6: Oklahoma City Thunder - 0.580
+7: Memphis Grizzlies - 0.531
+8: Portland Trail Blazers - 0.506
+9: Denver Nuggets - 0.481
+10: New Orleans Pelicans - 0.407
+11: Sacramento Kings - 0.395
+12: Dallas Mavericks - 0.395
+13: Minnesota Timberwolves - 0.383
+14: Los Angeles Lakers - 0.321
+15: Phoenix Suns - 0.293
+_____________________________________________________
