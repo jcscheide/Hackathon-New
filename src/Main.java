@@ -21,11 +21,15 @@ public class Main {
 		try {
 			fos = new FileOutputStream(file);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
+		
+		/* Output to file vs. in Console
 		PrintStream ps = new PrintStream(fos);
 		System.setOut(ps);
+		*/
+		
 		/*Set up the league*/
 		Day [] days = createDays(); //Reads in the excel file, and links each game to a day.
 		League league = createLeague(); //Creates teams, divisions, conference and a league. No games played yet.
@@ -135,6 +139,7 @@ public class Main {
 
 	
 
+	@SuppressWarnings("deprecation")
 	private static void checkForEliminations(League league, Day d) {
 	
 		for(Conference c: league.getConferences()){
@@ -312,6 +317,7 @@ public class Main {
 				}
 			}
 			file.close();
+			workbook.close();
 		} catch (Exception e){
 			e.printStackTrace();
 		}
